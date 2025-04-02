@@ -1,0 +1,4 @@
+requests
+typer
+pyyaml
+pytest
