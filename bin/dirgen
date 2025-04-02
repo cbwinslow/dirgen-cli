@@ -1,0 +1,3 @@
+#!/bin/bash
+# Bash wrapper for directory-builder Python CLI
+python3 -m directory_builder.cli "$@"
